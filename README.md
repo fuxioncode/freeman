@@ -1,2 +1,2 @@
 # panghuafu
-Freeman's homepage!
+[Freeman](http://panghuafu.com)'s homepage!
